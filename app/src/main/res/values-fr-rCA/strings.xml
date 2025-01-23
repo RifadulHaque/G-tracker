@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">G-tracker</string>
+    <string name="welcomeInfoId">Page d\'informations</string>
+    <string name="loginName">Page d\'informations</string>
+    <string name="logIn">Connexion </string>
+    <string name="registerName">Page d\'inscription </string>
+    <string name="logout_button">Page de déconnexion </string>
+    <string name="logouttext">Se déconnecter</string>
+    <string name="forgotPassword">Mot de passe oublié </string>
+    <string name="Password">Mot de passe </string>
+    <string name="Save">Registrer </string>
+    <string name="cancel">Annuler</string>
+    <string name="Welcome">Bienvenue   </string>
+    <string name="Register">S\'inscrire</string>
+    <string name="Delete">Effacer</string>
+    <string name="Dismiss">Rejeter</string>
+    <string name="now">maintenant!</string>
+    <string name="ResetPassword">réinitialiser  </string>
+    <string name="changePassword">Changer   </string>
+    <string name="PCS">Modifications de profil enregistrées</string>
+    <string name="DHAA">Vous n\'avez pas de compte ? </string>
+    <string name="FP">Mot de passe oublié? </string>
+    <string name="GtrackerName">gtracker@gmail.com </string>
+    <string name="GtrackerPhoneNumber">514-663-1313 </string>
+    <string name="AboutGtracker">À propos de G-tracker</string>
+    <string name="editProfile">Modifier la page de profil</string>
+    <string name="editprofiletext">Editer le profil</string>
+    <string name="NHFTCU">Besoin d\'aide pour trouver l\'utilisation du code: </string>
+    <string name="BEC">Capacité estimée du bac </string>
+    <string name="ECForJava">Capacité estimée:  </string>
+    <string name="DUS">Utilisateur supprimé avec succès,</string>
+    <string name="BHBSTD">La corbeille a été enregistrée dans la base de données</string>
+    <string name="ISTBCIIONITSY">Il semble que ce code bin soit incorrect ou pas encore dans le système</string>
+    <string name="deletemessagecheck">Si vous souhaitez supprimer votre profil,entrez votre e-mail et votre mot de passe et appuyez sur Supprimer le profil</string>
+    <string name="aboutName">À propos de la page</string>
+    <string name="FITSP">Remplissez le nom de famille s\'il vous plaît!</string>
+    <string name="FITNP">Remplissez le nom s\'il vous plaît!</string>
+    <string name="FTEMP">Remplissez l\'e-mail s\'il vous plaît!</string>
+    <string name="FTPP">Remplissez le mot de passe s\'il vous plaît !</string>
+    <string name="PETUN">Veuillez saisir le nom d\'utilisateur!</string>
+    <string name="PETP">S\'il vous plaît entrer le mot de passe!</string>
+    <string name="PEYCP">Veuillez saisir votre mot de passe actuel</string>
+    <string name="PCYEMAP">Veuillez vérifier votre e-mail et votre mot de passe!</string>
+    <string name="PEAVEM">Veuillez entrer un e-mail valide </string>
+    <string name="PEYNP">Veuillez saisir votre nouveau mot de passe</string>
+    <string name="TPSB6C">Le mot de passe doit comporter plus de 6 caractères</string>
+    <string name="YCPHTBMT6C">Votre mot de passe actuel doit comporter plus de 6 caractères</string>
+    <string name="YNPHTBMT6C">Votre nouveau mot de passe doit comporter plus de 6 caractères</string>
+    <string name="TNPIS">le nouveau mot de passe est similaire ! </string>
+    <string name="TPSBTS">Le mot de passe doit être le même</string>
+    <string name="NPHBS">Un nouveau mot de passe a été défini </string>
+    <string name="AF">Authentification échouée </string>
+    <string name="FTR">Échec de l\'inscription! </string>
+    <string name="TUHBR">L\'utilisateur a été enregistré !</string>
+    <string name="AYS">Êtes-vous sûr? </string>
+    <string name="TA">Réessayer </string>
+    <string name="YHBLO">vous avez été déconnecté </string>
+    <string name="DTAWRICRY">La suppression de ce compte entraînera la suppression complète de votre  </string>
+    <string name="AFTSAYWBATATA">compte du système et vous ne pourrez pas accéder à l\'application.  </string>
+    <string name="about">Sur</string>
+    <string name="contactusName">Nous contacter</string>
+    <string name="HEM">courrier électronique</string>
+    <string name="EMIR">courrier électronique est requis </string>
+    <string name="CYETRTP">Vérifiez votre courrier électronique pour réinitialiser le mot de passe!</string>
+    <string name="HCP">Confirmez mot de passe</string>
+    <string name="CYPP">Confirmez votre mot de passe s\'il vous plaît!</string>
+    <string name="HEYEM">le courrier électronique</string>
+    <string name="HENP">Nouveau mot de passe</string>
+    <string name="HECP">Mot de passe actuel</string>
+    <string name="HEBC">Entrez le code poubelle</string>
+    <string name="HEBN">Entrez le nom du bac</string>
+    <string name="HEL">Entrer l\'emplacement</string>
+    <string name="BN">Nom du bac</string>
+    <string name="BL">Emplacement du bac</string>
+    <string name="BLForJava">Emplacement: </string>
+    <string name="LOAAS">Liste de tous les capteurs disponibles:</string>
+    <string name="LOUB">Liste des bacs de l\'utilisateur</string>
+    <string name="TV">Affichage</string>
+    <string name="SN">Nom de famille</string>
+    <string name="N">Nom</string>
+    <string name="Percentage">%</string>
+    <string name="NameForJava">Nom: </string>
+    <string name="savechanges">Sauvegarder</string>
+    <string name="DeleteProfile">Supprimer </string>
+    <string name="chars"> abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="abouttext"> G-tracker est un appareil capable de mesurer le niveau de remplissage
+        d\'une poubelle et le transmettre sur une application où les utilisateurs
+        (employés) peuvent consulter pour savoir quels poubelles a besoin d\'être changé.\n
+        C\'est un projet né de l\'Université Concordia à Montréal,
+        Canada par 6 ingénieurs informaticiens et électriciens.
+        Nous espérons que ce projet facilitera le travail de tout le personnel
+        de nettoyage et de garder le monde propre. Faites-nous savoir
+        si vous en avez questions ou suggestions en nous contactant via notre page contactez-nous.
+    </string>
+    <string name="contactustext">Si vous avez des questions, des commentaires, des suggestions ou des demandes commerciales,\n
+        n\'hésitez pas à nous contacter au :</string>
+    <string name="contactuscontinued"> Ou si vous souhaitez appeler, veuillez le faire à: </string>
+    <string name="TeamInfo">
+       Membres de l\'équipe de projet: \n\n
+        Mohammed Al-Taie, 40097284 \n
+        Paul Westenberg, 40087074 \n
+        Erfan Reza, 40080730 \n
+        Saro Nokhoudian, 40073669 \n
+        Rifadul Haque, 40107346 \n
+        Jean Mardini, 40031904 \n\n
+
+        Scrum Master:\n
+        Mohammed Sehab\n
+    </string>
+    <string name="BC">Code Bin</string>
+    <string name = "deleteBinFragmentTitle">La suppression de ce bac entraînera la suppression complète de votre bin de votre compte et vous ne pourrez plus accéder à ses informations.</string>
+    <string name = "binDeleted">Corbeille supprimée</string>
+    <string name = "binCodeEmptyString">Veuillez saisir un code poubelle</string>
+    <string name = "binNameEmptyString">Veuillez saisir un nom de bac</string>
+    <string name = "binLocationEmptyString">Veuillez saisir un emplacement de bac</string>
+    <string name = "onclicklist"> </string>
+    <string name = "editBinString">Modifier la corbeille</string>
+    <string name = "consultBinString">Consulter le bac</string>
+    <string name = "thewordbin">Poubelle</string>
+    <string name = "removedfromaccount">a été retiré</string>
+    <string name="saveNewInfoButton">Sauvegarder</string>
+    <string name="saveNewBC">Enregistrer le nouveau code bin</string>
+    <string name = "editBin">Modifier la page de la corbeille</string>
+    <string name = "MSString">modifié avec succès</string>
+    <string name="charsAndNumbers">1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+
+</resources>
